@@ -45,9 +45,9 @@ class CDTCExecCtrl{
 
 
 	/**
-	 * \brief Check if is a HK_FDIR telecommand
+	 * \brief Check if is a ObsMng telecommand
 	 *
-	 * \return true if it is a HK_FDIR telecommand
+	 * \return true if it is a ObsMng telecommand
 	 *
 	 */
 	bool ObsMng(){return (ExecCtrlObsMng==mExecCtrl);}
